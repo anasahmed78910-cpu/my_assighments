@@ -21,6 +21,7 @@
 // //4
 // function extractExtention(value){
 //     console.log(path.extname(value))
+
 // }
 // extractExtention("/folder/folder2/index.js")
 // //5
